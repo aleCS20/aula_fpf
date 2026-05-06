@@ -1,0 +1,4 @@
+# General virtual environment folders
+venv/
+.venv/
+env/
